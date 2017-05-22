@@ -10,8 +10,8 @@ import java.io.*;
 public class Excel {
 
     public static void main(String[] args) {
-        String fileReadName = "D:\\ewalletDatabase/test.xlsx";
-        String fileWriteName = "D:\\ewalletDatabase/ewalletDatabase.sql";
+        String fileReadName = "/Users/wscrlhs/work/documents/yilidai/接口模型/账户模型设计实际.xlsx";
+        String fileWriteName = "/Users/wscrlhs/work/documents/yilidai/接口模型/ewalletDatabase.sql";
         String context;
         // 检测代码
         try {
