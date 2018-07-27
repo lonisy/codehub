@@ -5,5 +5,4 @@
 
 **qrcode** 生成二维码(php,javascript)
 
-
-download php下载实现
+**download** php下载实现
